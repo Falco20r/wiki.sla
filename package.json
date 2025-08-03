@@ -13,6 +13,7 @@
     "test": "eslint --format codeframe --ext .js,.vue . && pug-lint server/views && jest",
     "cypress:open": "cypress open",
     "postinstall": "patch-package"
+    "start-test": "node test-server.js"
   },
   "repository": {
     "type": "git",
