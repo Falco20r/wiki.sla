@@ -6,5 +6,5 @@ db:
   port: 5432
   user: sla_wiki_user
   pass: alkTuBXOwyRnPQe1wuMoIlRUUGSV96kI
-  db: sla_wiki
+  db: sla.wiki-db
   ssl: true
