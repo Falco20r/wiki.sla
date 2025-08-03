@@ -1,0 +1,11 @@
+{
+  "name": "wiki-js",
+  "version": "2.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server --port 10000"
+  },
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
