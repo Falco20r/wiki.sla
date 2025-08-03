@@ -1,0 +1,10 @@
+port: 3000
+
+db:
+  type: postgres
+  host: dpg-d278c20gjchc73fksep0-a
+  port: 5432
+  user: sla_wiki_user
+  pass: alkTuBXOwyRnPQe1wuMoIlRUUGSV96kI
+  db: sla_wiki
+  ssl: true
