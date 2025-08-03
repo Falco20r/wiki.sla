@@ -1,11 +1,20 @@
 {
-  "name": "wiki-js",
+  "name": "wiki",
   "version": "2.0.0",
+  "description": "A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown",
   "main": "server.js",
   "scripts": {
     "start": "node server --port 10000"
   },
   "dependencies": {
-    "pg": "^8.8.0"
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.20.2",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "pg": "^8.8.0",
+    "sharp": "^0.30.6",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.2"
   }
 }

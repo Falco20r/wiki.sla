@@ -1,4 +1,6 @@
-port: 10000
+dev: false
+
+# port: 10000
 
 db:
   type: postgres
