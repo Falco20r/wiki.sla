@@ -7,4 +7,5 @@ db:
   user: sla_wiki_user
   pass: alkTuBXOwyRnPQe1wuMoIlRUUGSV96kI
   db: sla_wiki
-  ssl: true
+  ssl:
+  rejectUnauthorized: false
